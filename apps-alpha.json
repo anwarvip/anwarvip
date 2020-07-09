@@ -1,11 +1,11 @@
 {
   "name": "anwarvip",
-  "identifier": "com.rileytestut.AltStore.Alpha",
+  "identifier": "com.rileytestut.AltStore.anwar",
   "apps": [
     
     {
       "name": "unc0ver",
-      "bundleIdentifier": "com.rileytestut.Delta.Alpha",
+      "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
       "version": "1.2a6",
