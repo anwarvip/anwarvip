@@ -13,7 +13,7 @@
       "versionDescription": "• Fixes various bugs with new controller skin features",
       "downloadURL": "https://unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
       "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\n\nDS support currently includes:\n• Playing DS games\n• Save States\n• Hold Button\n\nFeatures I'm still working on:\n• Fast Forward\n• Cheats\n• Controller skin (using placeholder controller skin for now)\n\nPlease report any issues you find to support@altstore.io. Thanks!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "iconURL": "https://unc0ver.dev/img/twitter/pwn20wnd.jpg",
       "tintColor": "8A28F7",
       "size": 18587500,
       "permissions": [
