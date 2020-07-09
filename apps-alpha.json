@@ -10,7 +10,7 @@
       "version": "1.4a7",
       "versionDate": "2020-06-25T13:00:00-07:00",
       "versionDescription": "NEW\n• Fixes communicating with AltServer over WiFi on iOS 14.\n\nLAST UPDATE\n• Fixes \"Authentication Handshake Failed\" error on iOS 14.\n\nThis version should now be 100% functional on iOS 14! To update to this version if you're already on iOS 14, download the latest AltServer from the pinned messages in the #altstore channel in the AltStore Discord and use it to reinstall AltStore.",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/altstore/1_4_a5.ipa",
+      "downloadURL": "https://unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
