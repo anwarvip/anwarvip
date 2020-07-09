@@ -1,9 +1,9 @@
 {
-  "name": "AltStore (Alpha)",
+  "name": "anwar (Alpha)",
   "identifier": "com.rileytestut.AltStore.Alpha",
   "apps": [
     {
-      "name": "AltStore (Alpha)",
+      "name": "anwar (Alpha)",
       "bundleIdentifier": "com.rileytestut.AltStore.Alpha",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
