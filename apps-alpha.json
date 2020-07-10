@@ -19,7 +19,7 @@
       "permissions": [
         {
           "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+          "usageDescription": ""
         }
       ],
       "screenshotURLs": [
