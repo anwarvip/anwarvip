@@ -2,9 +2,9 @@
   "name": "anwarvip",
   "identifier": "com.rileytestut.AltStore.Alpha",
   "apps": [
-    
+   
     {
-      "name": "unc0ver",
+      "name": "Delta (Alpha)",
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
@@ -12,7 +12,7 @@
       "versionDate": "2020-04-29T21:30:00-07:00",
       "versionDescription": "• Fixes various bugs with new controller skin features",
       "downloadURL": "https://unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
-      "localizedDescription": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
+      "localizedDescription": "unc0ver is a jail-break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
       "iconURL": "https://unc0ver.dev/img/twitter/pwn20wnd.jpg",
       "tintColor": "f8f9fa",
       "size": 18587500,
@@ -29,7 +29,7 @@
         "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
       ]
     },
-
+  ],
   "news": [
     {
       "title": "Welcome to AltStore (Alpha)",
