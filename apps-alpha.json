@@ -14,7 +14,7 @@
       "downloadURL": "https://unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
       "localizedDescription": "unc0ver is a jail-break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
       "iconURL": "https://unc0ver.dev/img/twitter/pwn20wnd.jpg",
-      "tintColor": "f8f9fa",
+      "tintColor": "161616",
       "size": 18587500,
       "permissions": [
         {
@@ -23,7 +23,7 @@
         }
       ],
       "screenshotURLs": [
-       
+       "https://kubadownload.com/site/assets/files/2645/unc0ver-jailbreak.625x0-is.jpg"
       ]
     },
   ],
