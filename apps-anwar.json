@@ -32,11 +32,11 @@
   ],
   "news": [
     {
-      "title": "Welcome to AltStore (Alpha)",
-      "identifier": "welcome-to-altstore-alpha",
-      "caption": "Please read the FAQ for help with installing apps.",
-      "tintColor": "018084",
-      "url": "https://altstore.io/faq/",
+      "title": "Welcome to anwarvip (jailbreak)",
+      "identifier": "welcome-to-anwarvip-jailbreak",
+      "caption": "",
+      "tintColor": "888888",
+      "url": "https://anwarvip.github.io/3rab/",
       "date": "2019-09-28",
       "notify": false
     }
