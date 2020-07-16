@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #324356;
 }
 
 .overlay-mf {
@@ -326,7 +326,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #0078ff;
+  background: #0a0a0a;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -475,7 +475,7 @@ a:hover {
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #fff;
+  background-color: #353535;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -852,7 +852,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: #324356;
   background-color: #fff;
   width: 52px;
   height: 52px;
