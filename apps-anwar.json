@@ -12,7 +12,7 @@
       "versionDescription": "Note: Only Nonce setter available on 12.1.2 - 12.3 and 12.4 on A12\nNote: 12.1.3 - 12.3 and 12.4 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2\nNote: Some 12.3 betas are compatible with Chimera. (Beta 6 is not compatible)",
       "downloadURL": "https://unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
       "localizedDescription": "",
-      "iconURL": "https://anwarvip.github.io/unc0ver/image/pwn20wnd.png",
+      "iconURL": "https://anwarvip.github.io/unc0ver/image/chimera.png",
       "tintColor": "fbc5d3",
       "size": 91350280,
       "permissions": [
