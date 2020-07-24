@@ -78,32 +78,7 @@
       ]
     },
   
-    {
-      "name": "unc0ver v5.2.1",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Riley Testut",
-      "subtitle": "The most advanced jailbreak tool. iOS 11.0 - 13.5",
-      "version": "5.2.1",
-      "versionDate": "2020-04-29T21:30:00-07:00",
-      "versionDescription": " • Fix bugs in the device compatibility manager\n • Fix a logic bug to improve performance\n • Fix patchfinder initialization for A7-A8 devices\n • Allow jailbreaking with corrupted /tmp directory",
-      "downloadURL": "https://unc0ver.dev/downloads/5.2.1/unc0ver_5.2.1.ipa",
-      "localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device.\n Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
-      "iconURL": "https://anwarvip.github.io/unc0ver/image/pwn20wnd.png",
-      "tintColor": "888888",
-      "size": 18587500,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": ""
-        }
-      ],
-      "screenshotURLs": [
-       "https://anwarvip.github.io/unc0ver/image/image2.png",
-       "https://anwarvip.github.io/unc0ver/image/image1.png",
-       "https://anwarvip.github.io/unc0ver/image/image0.png",
-       "https://anwarvip.github.io/unc0ver/image/image3.png"
-      ]
-    },
+   
      {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
