@@ -1,7 +1,7 @@
 {
   "name": "anwarvip",
   "identifier": "com.anwar.AltStore.Alpha",
-  
+  "sourceURL": "https://anwarvip.github.io/unc0ver/apps-anwar.json",
   "apps": [
     {
       "name": "unc0ver",
