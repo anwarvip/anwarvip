@@ -1,6 +1,7 @@
 {
   "name": "anwarvip",
   "identifier": "com.anwar.AltStore.Alpha",
+  
   "apps": [
     {
       "name": "unc0ver",
@@ -85,6 +86,7 @@
       "identifier": "welcome-to-anwarvip-jailbreak",
       "caption": "",
       "tintColor": "888888",
+      "imageURL": "https://anwarvip.github.io/unc0ver/img/intro-bg.jpg",
       "url": "https://anwarvip.github.io/unc0ver/",
       "date": "2019-09-28",
       "notify": false
