@@ -4,6 +4,31 @@
   "sourceURL": "https://anwarvip.github.io/unc0ver/apps-anwar.json",
   "apps": [
     {
+      "name": "Odyssey",
+      "bundleIdentifier": "com.odyssey.officialoddy",
+      "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "version": "V5.3.1",
+      "versionDate": "2020-07-24",
+      "versionDescription": "Fast. Really Fast.\nOdyssey is the first jailbreak to be written almost entirely in Swift.\n It's also a snappy, responsive experience that you can t find anywhere else, with full support for iOS 13.0-13.5 devices, including the latest iPads and iPhones.",
+      "downloadURL": "https://t.co/1UgZ8NYgNc?amp=1",
+      "localizedDescription": "his is temporary profile, that allows you to download and install odyssey jailbreak, other major jailbreaks, Apps, repos, & sileo & cydia demo versions. Simpally you can call this ODYY app as Odessey Jailbreak Store.",
+        "iconURL": "https://pbs.twimg.com/profile_images/1280028154200043521/xiD-rBS-_400x400.jpg",
+      "tintColor": "888888",
+      "size": 43024790,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": ""
+        }
+      ],
+      "screenshotURLs": [
+       "https://pbs.twimg.com/media/EdAYtCtWAAA1Ryz?format=jpg&name=large",
+       "https://pbs.twimg.com/media/EdARUQHXgAAzgZT.png"
+       
+      ]
+    },
+    {
       "name": "unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Riley Testut",
