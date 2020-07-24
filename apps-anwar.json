@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Odyssey",
-      "bundleIdentifier": "com.odyssey.officialoddy",
+      "bundleIdentifier": "org.coolstar.odyssey",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
       "version": "Beta",
